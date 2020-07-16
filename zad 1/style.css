@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+}
+
+main {
+    display: flex;
+    
+}
+
+section {
+    width: 50%;
+    color: white;
+    padding: 10px;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+footer {
+    background-color: green;
+    color: yellow;
+    text-transform: uppercase;
+    text-align: center;
+}

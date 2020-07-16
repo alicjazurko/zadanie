@@ -1,0 +1,1 @@
+Podwójną negacje stosuje się, aby dokonać konwersji wartości na typ prosty boolean, wtedy zwrócone bedzie true albo false.
